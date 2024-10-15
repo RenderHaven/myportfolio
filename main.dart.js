@@ -61438,13 +61438,13 @@ A.p4.prototype={
 ah(){return new A.DY(B.l)}}
 A.DY.prototype={
 W(a){var s=null,r=4282966508,q=t.w,p=Math.max(A.bC(a,s,q).w.a.a*0.08,50),o=p/3,n=A.ei("About Me",A.cV(s,s,new A.x(r),s,s,s,s,s,s,s,s,o,s,s,B.aw,s,s,!0,s,s,s,s,s,s,s,s)),m=A.d3(s,10,s),l=p/4,k=A.ei("I Am Vikram Balai, Student Developer",A.cV(s,s,B.v,s,s,s,s,s,s,s,s,l,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),j=A.d3(s,10,s),i=A.bC(a,s,q).w,h=Math.min(A.bC(a,s,q).w.a.a*0.45,400),g=t.b
-return A.f4(s,A.pE(A.a([n,m,k,j,A.a56(A.a([A.d3(A.ei("Experienced Android Developer with a demonstrated history of working in the computer software industry. Skilled in Loyalty Programs, Mobile Applications, Java, and last my most favourite flutter framework (builded over more then 15 project on it). Strong engineering professional with a High School Diploma focused in Information Technology from Vidyalankar Group of Educational Institutes. ",A.cV(s,s,B.v,s,s,s,s,s,s,s,s,l,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),h,i.a.a*0.48),A.A1(B.ci,A.bC(a,s,q).w.a.a*0.3,new A.hu("assests/mypic.png"),s)],g),B.hk,B.ef),A.d3(s,15,s),A.ei("Skills",A.cV(s,s,new A.x(r),s,s,s,s,s,s,s,s,o,s,s,B.aw,s,s,!0,s,s,s,s,s,s,s,s)),A.d3(s,20,s),A.A1(B.ci,60,new A.hu("assests/skills.png"),s)],g),B.bK,B.bQ),s,s,s,s,new A.aT(50,0,50,0),s)}}
+return A.f4(s,A.pE(A.a([n,m,k,j,A.a56(A.a([A.d3(A.ei("Experienced Android Developer with a demonstrated history of working in the computer software industry. Skilled in Loyalty Programs, Mobile Applications, Java, and last my most favourite flutter framework (builded over more then 15 project on it). Strong engineering professional with a High School Diploma focused in Information Technology from Vidyalankar Group of Educational Institutes. ",A.cV(s,s,B.v,s,s,s,s,s,s,s,s,l,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),h,i.a.a*0.48),A.A1(B.ci,A.bC(a,s,q).w.a.a*0.3,new A.hu("assets/mypic.png"),s)],g),B.hk,B.ef),A.d3(s,15,s),A.ei("Skills",A.cV(s,s,new A.x(r),s,s,s,s,s,s,s,s,o,s,s,B.aw,s,s,!0,s,s,s,s,s,s,s,s)),A.d3(s,20,s),A.A1(B.ci,60,new A.hu("assests/skills.png"),s)],g),B.bK,B.bQ),s,s,s,s,new A.aT(50,0,50,0),s)}}
 A.qT.prototype={
 ah(){return new A.Ga(B.l)}}
 A.Ga.prototype={
 W(a){var s=this,r=null,q="https://www.linkedin.com/in/vikram-balai-294890258/",p=t.w,o=Math.max(A.bC(a,r,p).w.a.a*0.08,50),n=A.bC(a,r,p).w,m=t.b,l=A.pE(A.a([A.ei("Hi ! I am ,",A.cV(r,r,new A.x(4282966508),r,r,r,r,r,r,r,r,o/3,r,r,B.aw,r,r,!0,r,r,r,r,r,r,r,r)),A.d3(r,5,r),A.ei("Vikram Balai",A.cV(r,r,B.i,r,r,r,r,r,r,r,r,o,r,r,B.aw,r,r,!0,r,r,r,r,r,r,r,r)),A.d3(r,5,r),A.ei("I Build Android Application",A.cV(r,r,B.xA,r,r,r,r,r,r,r,r,o/2,r,r,B.aw,r,r,!0,r,r,r,r,r,r,r,r))],m),B.bK,B.hj)
 p=A.bC(a,r,p).w
-return A.f4(r,A.a56(A.a([l,A.f4(r,A.pE(A.a([s.pm("assests/insta.png","https://www.instagram.com/renderhaven/profilecard/?igsh=cXhvYjEwaGJjMzZo"),A.d3(r,20,r),s.pm("assests/github.png","https://github.com/RenderHaven"),A.d3(r,20,r),s.pm("assests/hackerrank.png",q),A.d3(r,20,r),s.pm("assests/linkedin.png",q)],m),B.jv,B.hj),r,r,r,r,r,p.a.a*0.08)],m),B.hk,B.ef),r,r,n.a.b,r,new A.aT(50,100,60,0),r)},
+return A.f4(r,A.a56(A.a([l,A.f4(r,A.pE(A.a([s.pm("assets/insta.png","https://www.instagram.com/renderhaven/profilecard/?igsh=cXhvYjEwaGJjMzZo"),A.d3(r,20,r),s.pm("assets/github.png","https://github.com/RenderHaven"),A.d3(r,20,r),s.pm("assets/hackerrank.png",q),A.d3(r,20,r),s.pm("assets/linkedin.png",q)],m),B.jv,B.hj),r,r,r,r,r,p.a.a*0.08)],m),B.hk,B.ef),r,r,n.a.b,r,new A.aT(50,100,60,0),r)},
 pm(a,b){var s,r,q,p=null,o=this.c
 o.toString
 s=t.w
@@ -61471,7 +61471,7 @@ return A.f4(o,A.u2(B.cf,A.a([l,A.t0(o,A.f4(o,A.pE(A.a([j,i,A.f4(o,s,o,new A.eu(n
 A.t2.prototype={
 ah(){return new A.Hz(B.l)}}
 A.Hz.prototype={
-W(a){var s,r,q,p=this,o=null,n=t.w,m=A.bC(a,o,n).w,l=A.t0(o,A.A1(B.ci,550,new A.hu("assests/"+p.a.c),o),o,o,40,o,o,o),k=A.a([B.k,B.O],t.t_),j=A.ei(p.a.f,A.cV(o,o,B.i,o,o,o,o,o,o,o,o,45,o,o,B.aw,o,o,!0,o,o,o,o,o,o,o,o)),i=A.d3(o,50,o)
+W(a){var s,r,q,p=this,o=null,n=t.w,m=A.bC(a,o,n).w,l=A.t0(o,A.A1(B.ci,550,new A.hu("assets/"+p.a.c),o),o,o,40,o,o,o),k=A.a([B.k,B.O],t.t_),j=A.ei(p.a.f,A.cV(o,o,B.i,o,o,o,o,o,o,o,o,45,o,o,B.aw,o,o,!0,o,o,o,o,o,o,o,o)),i=A.d3(o,50,o)
 n=A.bC(a,o,n).w
 s=A.M9(new A.ef(B.jI,A.ei(p.a.e,A.cV(o,o,B.i,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),o),o,o)
 r=A.a([new A.f3(0,B.ds,B.u,B.h,5)],t.sq)
